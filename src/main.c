@@ -1,9 +1,4 @@
-#include <stdio.h>
-#include <string.h>
-#include <math.h>
-#include <stdbool.h>
-#include <stdlib.h>
-#include <time.h>
+#include <headers.h>
 
 #define ll long long int
 #define tds typedef struct 
