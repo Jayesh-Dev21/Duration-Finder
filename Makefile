@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall 
 
-TARGET = app
+TARGET = duration_finder
 
 SRC = *.c
 
